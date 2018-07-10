@@ -17,6 +17,8 @@ Please please please know what you are doing and be careful if you decide to use
 
 That aside, this should let you power your emotia downscaler with an off the shelf psu instead of shelling out for a very expensive OEM one.
 
+BOM is in the "Documentation" folder. Just 3 parts.
+
 # Version 0.1
 This board is untested.
 
